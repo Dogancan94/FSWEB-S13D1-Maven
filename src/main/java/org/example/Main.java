@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static boolean hasTeen(int firstAge, int secondAge, int thirdAge) {
-       
+        return true;
     }
 
     public static boolean isCatPlaying(boolean isSummer, int temp) {
